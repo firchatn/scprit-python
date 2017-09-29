@@ -383,3 +383,69 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1506718003442	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/search/top/?q=fseg"
 1506718003507	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 [Parent 29772] WARNING: pipe error (129): Connection reset by peer: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506718423144	geckodriver	INFO	geckodriver 0.18.0
+1506718423150	geckodriver	INFO	Listening on 127.0.0.1:43399
+1506718424392	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506718425404	Marionette	INFO	Enabled via --marionette
+1506718427831	Marionette	INFO	Listening on port 37735
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506718427927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506718427990	Marionette	DEBUG	loaded listener.js
+1506718428036	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506718429149	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506718429150	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506718430085	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506718431380	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506718431390	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506718431434	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/UDhjOl8dwlX.js, line 130: Error: Destroyed!
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yb/r/UDhjOl8dwlX.js, line 130: Error: Destroyed!
+[Parent 3684] WARNING: pipe error (74): Connection reset by peer: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506718662242	geckodriver	INFO	geckodriver 0.18.0
+1506718662249	geckodriver	INFO	Listening on 127.0.0.1:38615
+1506718663530	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506718664612	Marionette	INFO	Enabled via --marionette
+1506718666921	Marionette	INFO	Listening on port 45273
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506718666976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506718667058	Marionette	DEBUG	loaded listener.js
+1506718667263	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506718668422	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506718668423	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506718669630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506718671523	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506718671538	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506718671592	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1506718749041	geckodriver	INFO	geckodriver 0.18.0
+1506718749049	geckodriver	INFO	Listening on 127.0.0.1:43481
+1506718750321	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506718751433	Marionette	INFO	Enabled via --marionette
+1506718753611	Marionette	INFO	Listening on port 35643
+1506718753813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506718753893	Marionette	DEBUG	loaded listener.js
+1506718753941	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506718754848	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506718754849	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506718755601	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506718756828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506718756837	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506718756868	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1506718835649	geckodriver	INFO	geckodriver 0.18.0
+1506718835654	geckodriver	INFO	Listening on 127.0.0.1:59179
+1506718836875	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506718837926	Marionette	INFO	Enabled via --marionette
+1506718840070	Marionette	INFO	Listening on port 40951
+1506718840125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506718840217	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506718840337	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506718841271	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506718841272	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506718842538	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506718843666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506718843675	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506718843706	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"

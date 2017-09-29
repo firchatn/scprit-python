@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 import time
 
 browser = webdriver.Firefox()
@@ -18,7 +19,13 @@ finder_find = browser.find_element_by_name('q')
 finder_find.send_keys(ch)
 finder_find.send_keys(Keys.RETURN)
 time.sleep(10)
+finder_find.clear()
+list = browser.find_elements(By.XPATH, "//a[contains(@class, '_1ii5 _2yez')]")
+for i in list:
+    print(i.text)
 name = browser.find_element_by_xpath("//a[contains(@class, '_1ii5 _2yez')]").text
-browser.find_element_by_xpath("//a[contains(@class, '_1ii5 _2yez')]").click()
+#browser.find_element_by_xpath("//a[contains(@class, '_1ii5 _2yez')]").click()
 print(name)
+
+
 
