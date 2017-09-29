@@ -7,5 +7,7 @@ diff = ImageChops.difference(im1,im1)
 print(type(diff))
 if not diff.getbbox():
     print("equal")
+else:
+    print("different see the diff")
 diff.show()
 print(diff)
