@@ -569,3 +569,198 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1506724994046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=fad5476bb27392&origin=https%3A%2F%2Fwww.instagram.com"
 1506724994050	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=fad5476bb27392&origin=https%3A%2F%2Fwww.instagram.com"
 1506724994496	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506725103653	geckodriver	INFO	geckodriver 0.18.0
+1506725103660	geckodriver	INFO	Listening on 127.0.0.1:55507
+1506725103949	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506725105001	Marionette	INFO	Enabled via --marionette
+1506725107267	Marionette	INFO	Listening on port 39723
+1506725107286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506725107370	Marionette	DEBUG	loaded listener.js
+1506725107418	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506725109655	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506725109656	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506725111028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506725112820	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506725113076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2333619c11461e&origin=https%3A%2F%2Fwww.instagram.com"
+1506725113079	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2333619c11461e&origin=https%3A%2F%2Fwww.instagram.com"
+1506725113334	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506725691528	geckodriver	INFO	geckodriver 0.18.0
+1506725691533	geckodriver	INFO	Listening on 127.0.0.1:38683
+1506725691811	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506725692935	Marionette	INFO	Enabled via --marionette
+1506725695378	Marionette	INFO	Listening on port 38179
+1506725695612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506725695702	Marionette	DEBUG	loaded listener.js
+1506725695759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506725696627	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506725696628	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506725698113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506725699432	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506725699888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1a8e32d434845c&origin=https%3A%2F%2Fwww.instagram.com"
+1506725699893	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1a8e32d434845c&origin=https%3A%2F%2Fwww.instagram.com"
+1506725700399	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1506725866808	geckodriver	INFO	geckodriver 0.18.0
+1506725866813	geckodriver	INFO	Listening on 127.0.0.1:35087
+1506725867289	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506725869003	Marionette	INFO	Enabled via --marionette
+1506725871736	Marionette	INFO	Listening on port 40161
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506725872054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506725872146	Marionette	DEBUG	loaded listener.js
+1506725872219	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506725873832	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506725873833	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506725875492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506725879133	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506725879478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f961c615ac32b6&origin=https%3A%2F%2Fwww.instagram.com"
+1506725879481	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f961c615ac32b6&origin=https%3A%2F%2Fwww.instagram.com"
+1506725879664	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506725901453	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506725901567	Marionette	DEBUG	loaded listener.js
+1506725901726	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506725902076	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506725902311	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506725902568	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506725902813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506725903080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506725903335	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506725903585	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506725903827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506725984572	geckodriver	INFO	geckodriver 0.18.0
+1506725984578	geckodriver	INFO	Listening on 127.0.0.1:53003
+1506725985828	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506725986857	Marionette	INFO	Enabled via --marionette
+1506725989143	Marionette	INFO	Listening on port 37487
+1506725989333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506725989416	Marionette	DEBUG	loaded listener.js
+1506725989461	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506725990303	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506725990304	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506725991849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506725993150	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506725993599	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f8f5438270ea44&origin=https%3A%2F%2Fwww.instagram.com"
+1506725993603	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f8f5438270ea44&origin=https%3A%2F%2Fwww.instagram.com"
+1506725993860	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1506726167428	geckodriver	INFO	geckodriver 0.18.0
+1506726167444	geckodriver	INFO	Listening on 127.0.0.1:41937
+1506726169937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506726173847	Marionette	INFO	Enabled via --marionette
+1506726178198	Marionette	INFO	Listening on port 42667
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506726178300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506726178360	Marionette	DEBUG	loaded listener.js
+1506726178450	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506726179599	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506726179600	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506726181659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506726183363	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506726183703	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f351d7a8044aff6&origin=https%3A%2F%2Fwww.instagram.com"
+1506726183707	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f351d7a8044aff6&origin=https%3A%2F%2Fwww.instagram.com"
+1506726183855	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506726343471	geckodriver	INFO	geckodriver 0.18.0
+1506726343477	geckodriver	INFO	Listening on 127.0.0.1:59071
+1506726344748	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506726345940	Marionette	INFO	Enabled via --marionette
+1506726348039	Marionette	INFO	Listening on port 35081
+1506726348099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506726348170	Marionette	DEBUG	loaded listener.js
+1506726348341	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506726349216	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506726349217	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506726351241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506726355705	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506726357521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f29f2ddfb604bce&origin=https%3A%2F%2Fwww.instagram.com"
+1506726357527	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f29f2ddfb604bce&origin=https%3A%2F%2Fwww.instagram.com"
+1506726360026	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506726381425	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726387023	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506726387124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726397443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726397756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726398046	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726398348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726398630	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726398908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726399054	Marionette	DEBUG	loaded listener.js
+1506726399222	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726399582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726399840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726400107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726400362	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726400621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726400900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726401153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726401422	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726401706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726402066	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726402386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726402654	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506726402908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected

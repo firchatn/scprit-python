@@ -23,6 +23,13 @@ password_el.clear()
 password_el.send_keys('azertycom')
 password_el.send_keys(Keys.RETURN)
 
-
-
+time.sleep(10)
+browser.find_element_by_xpath("//a[contains(@class, '_8scx2 _gvoze coreSpriteDesktopNavExplore')]").click()
+time.sleep(5)
+browser.find_element_by_xpath("//a[contains(@class, '_3f3gc _fkers')]").click()
+time.sleep(10)
+list = browser.find_elements(By.XPATH, "//button[contains(@class, '_qv64e _gexxb _4tgw8 _njrw0')]")
+for i in list:
+    i.click()
+    print(i.text)
 
