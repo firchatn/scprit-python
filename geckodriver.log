@@ -330,3 +330,56 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1506712080537	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
 1506712098592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 [Parent 6319] WARNING: pipe error (74): Connection reset by peer: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506717695982	geckodriver	INFO	geckodriver 0.18.0
+1506717695989	geckodriver	INFO	Listening on 127.0.0.1:56199
+1506717697258	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506717698290	Marionette	INFO	Enabled via --marionette
+1506717700832	Marionette	INFO	Listening on port 36953
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506717700915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506717700999	Marionette	DEBUG	loaded listener.js
+1506717701049	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506717704929	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506717704930	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506717705827	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506717706959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506717706967	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506717707015	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1506717751049	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 26280] WARNING: pipe error (68): Connection reset by peer: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506717786976	geckodriver	INFO	geckodriver 0.18.0
+1506717786982	geckodriver	INFO	Listening on 127.0.0.1:56119
+1506717788219	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506717789409	Marionette	INFO	Enabled via --marionette
+1506717791684	Marionette	INFO	Listening on port 38565
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506717791972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506717792069	Marionette	DEBUG	loaded listener.js
+1506717792124	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506717793739	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506717793741	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506717794994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506717796480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506717796493	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506717796529	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1506717821550	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 27449] WARNING: pipe error (132): Connection reset by peer: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 27449] WARNING: pipe error (67): Connection reset by peer: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506717969993	geckodriver	INFO	geckodriver 0.18.0
+1506717969998	geckodriver	INFO	Listening on 127.0.0.1:58595
+1506717970207	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506717971221	Marionette	INFO	Enabled via --marionette
+1506717973415	Marionette	INFO	Listening on port 43937
+1506717973471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506717973551	Marionette	DEBUG	loaded listener.js
+1506717973700	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506717974621	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506717974621	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506717975398	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506717976531	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506717976546	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506717976591	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1506718003442	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/search/top/?q=fseg"
+1506718003507	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 29772] WARNING: pipe error (129): Connection reset by peer: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
