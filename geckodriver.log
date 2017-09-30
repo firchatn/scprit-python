@@ -2782,3 +2782,16 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1506785667605	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [Child 21831] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506786431797	geckodriver	INFO	geckodriver 0.18.0
+1506786431803	geckodriver	INFO	Listening on 127.0.0.1:44507
+1506786433015	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506786439972	Marionette	INFO	Enabled via --marionette
+1506786441825	Marionette	INFO	Listening on port 42289
+1506786442019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506786442107	Marionette	DEBUG	loaded listener.js
+1506786442147	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506786443788	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506786443789	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506786448186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending"
+1506786448978	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
