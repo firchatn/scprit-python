@@ -3449,3 +3449,19 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1506794213948	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1506794219470	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending"
 1506794221866	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
+1506798109380	geckodriver	INFO	geckodriver 0.18.0
+1506798109411	geckodriver	INFO	Listening on 127.0.0.1:43493
+1506798110263	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506798125287	geckodriver	INFO	geckodriver 0.18.0
+1506798125297	geckodriver	INFO	Listening on 127.0.0.1:45295
+1506798126634	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506798128293	Marionette	INFO	Enabled via --marionette
+1506798132647	Marionette	INFO	Listening on port 41365
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506798132714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506798132803	Marionette	DEBUG	loaded listener.js
+1506798132968	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506798135137	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506798135138	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506798144697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending/"
+1506798150559	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending/"

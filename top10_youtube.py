@@ -4,7 +4,9 @@ from selenium.webdriver.common.by import By
 import time
 
 browser = webdriver.Firefox()
-browser.get('http://youtube.com/feed/trending')
+#browser = webdriver.PhantomJS(service_args=['--ssl-protocol=any'])
+
+browser.get("https://youtube.com/feed/trending/")
 
 time.sleep(10)
 """
