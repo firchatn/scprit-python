@@ -2833,3 +2833,619 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1506788083931	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1506788089007	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending"
 1506788091168	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
+1506793145771	geckodriver	INFO	geckodriver 0.18.0
+1506793145813	geckodriver	INFO	Listening on 127.0.0.1:53677
+1506793147533	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506793149330	Marionette	INFO	Enabled via --marionette
+1506793152980	Marionette	INFO	Listening on port 44759
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506793153051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506793153156	Marionette	DEBUG	loaded listener.js
+1506793153210	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506793154481	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506793154482	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506793156959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506793161358	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506793162111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f21eb82332bfd8e&origin=https%3A%2F%2Fwww.instagram.com"
+1506793162117	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f21eb82332bfd8e&origin=https%3A%2F%2Fwww.instagram.com"
+1506793162786	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506793184634	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793190219	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793190356	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793201699	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793202992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793204299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793205601	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793206941	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793217159	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217159	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217160	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217161	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217161	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217162	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217162	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217162	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217163	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217163	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217164	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217164	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217164	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217165	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217165	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217165	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217166	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217166	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217167	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217167	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793217263	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793217265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1506793217265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1506793217265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1506793217265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1506793217266	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1506793217266	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1506793217267	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1506793217267	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1506793217267	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1506793217268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1506793217268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1506793217270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1506793217271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1506793217272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1506793217273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1506793217274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1506793217275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1506793217275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1506793217275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1506793217276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1506793217279	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793222627	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793222735	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222739	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222760	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222763	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222765	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222768	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222770	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222774	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222776	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222778	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222781	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222784	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222786	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793222788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793234116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793235417	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793236696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793237984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793239286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793249530	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249534	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249536	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249537	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249538	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249539	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249541	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249541	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249542	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249542	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249544	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249545	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249546	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249547	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249547	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249548	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249548	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249549	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249549	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249549	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793249625	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793249628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1506793249628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1506793249628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1506793249628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1506793249629	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1506793249629	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1506793249629	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1506793249629	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1506793249629	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1506793249630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483731"
+1506793249630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1506793249631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483733"
+1506793249631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1506793249631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483735"
+1506793249631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1506793249632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483737"
+1506793249632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483738"
+1506793249632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1506793249632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483740"
+1506793249633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483741"
+1506793249650	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793254921	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793254985	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793254989	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255010	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255014	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255017	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255020	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255023	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255027	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255030	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255033	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255036	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255038	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255041	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255043	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255045	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255048	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255051	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255053	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255055	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255057	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793255058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483762"
+1506793255059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793266357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793267641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793268912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793270192	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793271462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793281689	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281690	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281691	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281691	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281692	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281692	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281693	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281693	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281694	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281694	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281695	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281695	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281695	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281696	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281696	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281697	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281697	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281698	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281698	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281698	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793281784	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793281786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483764"
+1506793281787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483765"
+1506793281787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483766"
+1506793281788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483767"
+1506793281788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1506793281788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483769"
+1506793281789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483770"
+1506793281789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483771"
+1506793281789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483772"
+1506793281790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483773"
+1506793281790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483774"
+1506793281790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483775"
+1506793281791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483776"
+1506793281791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483777"
+1506793281791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483778"
+1506793281792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483779"
+1506793281792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1506793281792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483781"
+1506793281793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1506793281793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1506793281815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793287123	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793287204	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287207	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287211	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287213	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287215	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287217	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287219	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287221	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287223	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287227	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287229	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287230	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287232	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287235	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287237	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287239	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287241	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287243	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287245	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287247	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793287249	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483804"
+1506793287250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793298560	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793299843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793301114	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793302409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793303687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793313899	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313901	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313902	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313905	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313906	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313908	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313909	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313909	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313910	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313911	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313914	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313915	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313916	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313917	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313917	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313918	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313918	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313919	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313919	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313920	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793313992	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793313995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483806"
+1506793313998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483807"
+1506793313999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483808"
+1506793314000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483809"
+1506793314001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483810"
+1506793314001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483811"
+1506793314002	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483812"
+1506793314003	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483813"
+1506793314003	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483814"
+1506793314004	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483815"
+1506793314005	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483816"
+1506793314005	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483817"
+1506793314006	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483818"
+1506793314006	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483819"
+1506793314006	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483820"
+1506793314007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483821"
+1506793314007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483822"
+1506793314007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483823"
+1506793314008	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483824"
+1506793314008	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483825"
+1506793314033	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793319310	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793319380	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319383	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319386	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319404	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319406	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319408	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319411	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319413	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319414	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319417	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319420	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319423	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319424	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319426	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319428	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319429	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319431	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319432	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319434	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319435	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793319437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483846"
+1506793319438	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793330751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793332020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793333300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793334566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793335835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793346023	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346025	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346026	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346026	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346027	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346028	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346029	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346030	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346030	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346031	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346032	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346032	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346033	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346033	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346034	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346034	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346035	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346035	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346036	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346036	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793346093	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793346097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483848"
+1506793346098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483849"
+1506793346098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483850"
+1506793346098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483851"
+1506793346099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483852"
+1506793346099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483853"
+1506793346099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483854"
+1506793346099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483855"
+1506793346100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483856"
+1506793346100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483857"
+1506793346100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483858"
+1506793346101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483859"
+1506793346101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483860"
+1506793346101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483861"
+1506793346102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483862"
+1506793346102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483863"
+1506793346103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483864"
+1506793346103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483865"
+1506793346104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483866"
+1506793346104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483867"
+1506793346148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793351403	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793351502	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351504	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351506	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351509	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351512	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351515	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351518	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351520	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351523	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351525	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351528	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351530	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351533	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351535	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351537	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351540	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351543	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351545	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351547	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351550	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793351552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483888"
+1506793351554	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793362841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793364121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793365408	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793366696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793367979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793378200	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378201	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378201	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378202	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378203	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378204	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378204	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378205	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378205	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378206	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378208	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378209	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378210	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378210	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378211	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378212	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378212	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378213	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378213	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378214	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793378268	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793378270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483890"
+1506793378271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483891"
+1506793378271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483892"
+1506793378272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483893"
+1506793378272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483894"
+1506793378272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483895"
+1506793378273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483896"
+1506793378273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483897"
+1506793378274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483898"
+1506793378274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483899"
+1506793378278	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483900"
+1506793378278	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483901"
+1506793378278	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483902"
+1506793378279	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483903"
+1506793378279	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483904"
+1506793378279	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483905"
+1506793378280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483906"
+1506793378280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483907"
+1506793378280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483908"
+1506793378280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483909"
+1506793378332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793383579	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793383645	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383648	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383650	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383652	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383655	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383672	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383674	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383676	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383677	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383681	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383683	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383685	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383687	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383690	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383692	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383694	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383696	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383699	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383701	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383703	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793383707	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483930"
+1506793383708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793394993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793396269	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793397549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793398831	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793400111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793410332	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410333	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410334	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410335	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410335	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410337	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410338	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410339	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410339	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410340	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410344	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410345	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410346	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410347	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410348	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410348	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410349	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410350	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410350	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410351	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793410417	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793410419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483932"
+1506793410420	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483933"
+1506793410420	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483934"
+1506793410423	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483935"
+1506793410423	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483936"
+1506793410424	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483937"
+1506793410426	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483938"
+1506793410427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483939"
+1506793410428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483940"
+1506793410428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483941"
+1506793410429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483942"
+1506793410429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483943"
+1506793410429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483944"
+1506793410430	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483945"
+1506793410430	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483946"
+1506793410431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483947"
+1506793410431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483948"
+1506793410431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483949"
+1506793410432	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483950"
+1506793410432	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483951"
+1506793410465	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793415711	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793415778	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415781	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415785	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415788	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415805	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415807	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415809	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415811	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415812	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415815	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415818	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415821	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415823	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415825	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415827	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415828	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415830	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415832	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415833	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415835	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506793415838	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483972"
+1506793415841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793427172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793428478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793429788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793431068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793432359	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793432644	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793442452	geckodriver	INFO	geckodriver 0.18.0
+1506793442456	geckodriver	INFO	Listening on 127.0.0.1:36913
+1506793442692	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506793443762	Marionette	INFO	Enabled via --marionette
+1506793446209	Marionette	INFO	Listening on port 36273
+1506793446246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506793446326	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506793446483	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506793447322	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506793447322	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506793449197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506793451247	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506793451778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f195c52f06d7a32&origin=https%3A%2F%2Fwww.instagram.com"
+1506793451783	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f195c52f06d7a32&origin=https%3A%2F%2Fwww.instagram.com"
+1506793452390	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506793473915	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793479453	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506793479586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793490927	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793492233	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793493537	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793494832	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793496108	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506793814662	geckodriver	INFO	geckodriver 0.18.0
+1506793814669	geckodriver	INFO	Listening on 127.0.0.1:40607
+1506793815087	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506793816293	Marionette	INFO	Enabled via --marionette
+1506793818799	Marionette	INFO	Listening on port 46787
+1506793818865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506793818960	Marionette	DEBUG	loaded listener.js
+1506793819118	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506793820574	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506793820574	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506793826214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending"
+1506793829973	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
+1506793913283	geckodriver	INFO	geckodriver 0.18.0
+1506793913289	geckodriver	INFO	Listening on 127.0.0.1:51895
+1506793914606	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506793915657	Marionette	INFO	Enabled via --marionette
+1506793918288	Marionette	INFO	Listening on port 44687
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506793918355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506793918425	Marionette	DEBUG	loaded listener.js
+1506793918472	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506793920565	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506793920565	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506793926020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending"
+1506793926839	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
+1506794017045	geckodriver	INFO	geckodriver 0.18.0
+1506794017051	geckodriver	INFO	Listening on 127.0.0.1:55687
+1506794018336	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506794019502	Marionette	INFO	Enabled via --marionette
+1506794021941	Marionette	INFO	Listening on port 36435
+1506794022164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506794022260	Marionette	DEBUG	loaded listener.js
+1506794022317	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1506794026789	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1506794027400	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506794027413	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506794027413	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506794027478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//youtube.com/feed/trending&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20server%20at%20youtube.com."
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 230: TypeError: Cc[aContract] is undefined
+1506794091137	geckodriver	INFO	geckodriver 0.18.0
+1506794091142	geckodriver	INFO	Listening on 127.0.0.1:43737
+1506794091410	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506794092555	Marionette	INFO	Enabled via --marionette
+1506794094770	Marionette	INFO	Listening on port 34351
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506794094948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506794095035	Marionette	DEBUG	loaded listener.js
+1506794095079	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506794096861	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506794096862	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506794101961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending"
+1506794104318	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16422] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506794142978	geckodriver	INFO	geckodriver 0.18.0
+1506794142985	geckodriver	INFO	Listening on 127.0.0.1:40531
+1506794144181	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506794145007	Marionette	INFO	Enabled via --marionette
+1506794147095	Marionette	INFO	Listening on port 46099
+1506794147326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506794147422	Marionette	DEBUG	loaded listener.js
+1506794147472	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506794149022	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506794149022	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506794159776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending"
+1506794160766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending"
+1506794160773	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
+1506794163598	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
+1506794207382	geckodriver	INFO	geckodriver 0.18.0
+1506794207392	geckodriver	INFO	Listening on 127.0.0.1:41211
+1506794208644	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506794209740	Marionette	INFO	Enabled via --marionette
+1506794212163	Marionette	INFO	Listening on port 37277
+1506794212199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506794212326	Marionette	DEBUG	loaded listener.js
+1506794212463	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506794213947	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506794213948	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506794219470	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending"
+1506794221866	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
