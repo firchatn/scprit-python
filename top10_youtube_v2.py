@@ -10,6 +10,7 @@ try:
 	print(browser.current_url)
 	browser.get("https://youtube.com/feed/trending/")
 	time.sleep(10)
+	browser.maximize_window()
 	print(browser.current_url)
 	print('ok0')
 
