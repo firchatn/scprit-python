@@ -12,8 +12,8 @@ top = browser.find_element_by_xpath("//a[contains(@class, 'yt-simple-endpoint st
 last_top = top	.get_attribute("title")
 
 list = browser.find_elements(By.XPATH, "//span[contains(@class, 'style-scope ytd-video-meta-block')]")
-last_vue list[0].text
-last_date_title list[1].text
+last_vue = list[0].text
+last_date_title = list[1].text
 
 #vue = browser.find_element_by_xpath("//span[contains(@class, 'style-scope ytd-video-meta-block')]")
 #last_vue = vue.text
