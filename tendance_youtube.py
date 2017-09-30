@@ -9,7 +9,7 @@ browser.get('http://youtube.com/feed/trending')
 time.sleep(10)
 
 top = browser.find_element_by_xpath("//a[contains(@class, 'yt-simple-endpoint style-scope ytd-video-renderer')]")
-last_top = top	.get_attribute("title")
+last_top = top.get_attribute("title")
 
 list = browser.find_elements(By.XPATH, "//span[contains(@class, 'style-scope ytd-video-meta-block')]")
 last_vue = list[0].text
@@ -23,5 +23,3 @@ print('nombre vue : ',last_vue)
 print('poster le : ',last_date_title)
 
 browser.close()
-
-
