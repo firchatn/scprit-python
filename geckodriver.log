@@ -1135,3 +1135,269 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1506762181816	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1506762183102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 230: TypeError: Cc[aContract] is undefined
+1506765477800	geckodriver	INFO	geckodriver 0.18.0
+1506765477806	geckodriver	INFO	Listening on 127.0.0.1:58665
+1506765479084	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506765480298	Marionette	INFO	Enabled via --marionette
+1506765482653	Marionette	INFO	Listening on port 45951
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506765482722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506765482780	Marionette	DEBUG	loaded listener.js
+1506765482823	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506765484296	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506765484297	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506765488609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506765489510	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506765489782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3e87a3e45a208&origin=https%3A%2F%2Fwww.instagram.com"
+1506765489786	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3e87a3e45a208&origin=https%3A%2F%2Fwww.instagram.com"
+1506765495136	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506765516584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765521995	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765533354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765534678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765535953	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765537251	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765538548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765548747	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548748	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548749	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548750	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548750	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548750	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548751	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548751	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548751	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548752	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548753	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548754	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548754	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548755	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548755	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548756	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548756	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548757	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548758	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548758	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765548863	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506765548870	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1506765548871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1506765548871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1506765548872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483710"
+1506765548872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1506765548872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1506765548872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1506765548873	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1506765548873	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1506765548874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1506765548875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1506765548875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1506765548875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1506765548875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1506765548876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1506765548876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1506765548877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1506765548877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1506765548877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1506765548878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1506765548912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765554141	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506765554261	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554264	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554267	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554268	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554270	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554273	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554275	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554277	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554279	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554281	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554283	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554285	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554287	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554289	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554293	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554297	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554300	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554302	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554305	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554307	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765554309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483747"
+1506765554309	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765565618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765566923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765568208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765569829	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765571635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765581896	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581897	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581898	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581899	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581900	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581902	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581904	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581907	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581909	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581911	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581913	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581915	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581916	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581919	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581921	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581922	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581924	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581925	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581927	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765581929	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765582085	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506765582089	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483749"
+1506765582090	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1506765582091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483751"
+1506765582092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483752"
+1506765582093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483753"
+1506765582094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483754"
+1506765582095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483755"
+1506765582097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483756"
+1506765582098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1506765582099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483758"
+1506765582100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483759"
+1506765582101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483760"
+1506765582102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1506765582103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483762"
+1506765582104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483763"
+1506765582104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483764"
+1506765582105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483765"
+1506765582105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483766"
+1506765582106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483767"
+1506765582106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1506765582107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1773:11
+send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1773, column: 11
+console.error: 
+  Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1773:11
+send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1773, column: 11
+1506765587624	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506765587823	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765587853	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1773:11
+send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1773, column: 11
+console.error: 
+  Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1773:11
+send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1773, column: 11
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+1506765599213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765600513	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765601809	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765603126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765604428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765614782	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614783	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614783	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614784	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614784	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614784	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614785	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614785	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614786	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614786	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614787	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614787	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614787	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614788	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614788	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614789	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614789	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614789	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614790	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614790	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765614898	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506765614900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483794"
+1506765614900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483795"
+1506765614901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483796"
+1506765614901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483797"
+1506765614901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483798"
+1506765614902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483799"
+1506765614902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483800"
+1506765614902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483801"
+1506765614902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483802"
+1506765614903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483803"
+1506765614903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483804"
+1506765614903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483805"
+1506765614904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483806"
+1506765614904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483807"
+1506765614904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483808"
+1506765614905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483809"
+1506765614905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483810"
+1506765614905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483811"
+1506765614906	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483812"
+1506765614906	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483813"
+1506765614907	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+1506765620325	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/"
+1506765620441	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/explore/people"
+1506765620443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+1506765631752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765633033	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765634314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765635603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506765636875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
