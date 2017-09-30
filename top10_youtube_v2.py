@@ -4,14 +4,15 @@ from selenium.webdriver.common.by import By
 import time
 
 
-browser = webdriver.PhantomJS(service_args=['--ssl-protocol=any'])
+browser = webdriver.PhantomJS("/home/firas/git/scripts-python/phantomjs-2.1.1-linux-x86_64/bin/phantomjs",  service_args=['--ignore-ssl-errors=true', '--ssl-protocol=any'])
 browser.set_window_size(1120, 550)
-browser.maximize_window()
 try:
-	
+	print(browser.current_url)
 	browser.get("https://youtube.com/feed/trending/")
-	browser.maximize_window()
+	time.sleep(10)
+	print(browser.current_url)
 	print('ok0')
+
 	top10 = browser.find_elements(By.XPATH, "//a[contains(@class, 'yt-simple-endpoint style-scope ytd-video-renderer')]")
 	print(top10)
 	print('ok')
@@ -22,4 +23,4 @@ try:
 	print(about)
 except Exception :
 	browser.save_screenshot('screenshot.png')
-browser.close()
+
