@@ -2482,3 +2482,261 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1506767762801	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1506767764078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1506767765349	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506768432666	geckodriver	INFO	geckodriver 0.18.0
+1506768432672	geckodriver	INFO	Listening on 127.0.0.1:48633
+1506768433883	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506768434863	Marionette	INFO	Enabled via --marionette
+1506768436716	Marionette	INFO	Listening on port 38775
+1506768436889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506768436972	Marionette	DEBUG	loaded listener.js
+1506768437022	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506768438293	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506768438294	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506768439578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506768440925	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506768441440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1d07d175369494&origin=https%3A%2F%2Fwww.instagram.com"
+1506768441444	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1d07d175369494&origin=https%3A%2F%2Fwww.instagram.com"
+1506768441541	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506768462575	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506768506721	geckodriver	INFO	geckodriver 0.18.0
+1506768506727	geckodriver	INFO	Listening on 127.0.0.1:41209
+1506768507925	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506768508833	Marionette	INFO	Enabled via --marionette
+1506768510589	Marionette	INFO	Listening on port 34471
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506768510802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506768510873	Marionette	DEBUG	loaded listener.js
+1506768510922	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506768511832	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506768511833	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506768513124	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1506768514441	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506768514686	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2975d3817c0a1e&origin=https%3A%2F%2Fwww.instagram.com"
+1506768514690	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2975d3817c0a1e&origin=https%3A%2F%2Fwww.instagram.com"
+1506768515056	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1506768536132	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506768546485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506783763452	geckodriver	INFO	geckodriver 0.18.0
+1506783763486	geckodriver	INFO	Listening on 127.0.0.1:53507
+1506783765411	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506783772873	Marionette	INFO	Enabled via --marionette
+1506783776443	Marionette	INFO	Listening on port 43487
+1506783776548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506783776621	Marionette	DEBUG	loaded listener.js
+1506783776675	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506783786248	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506783786249	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506783787612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506783788821	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506783788834	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506783788883	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1506783857435	geckodriver	INFO	geckodriver 0.18.0
+1506783857553	geckodriver	INFO	Listening on 127.0.0.1:47073
+1506783859672	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506783862814	Marionette	INFO	Enabled via --marionette
+1506783866535	Marionette	INFO	Listening on port 33399
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506783866839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506783866939	Marionette	DEBUG	loaded listener.js
+1506783867031	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506783868024	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506783868025	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506783868916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506783870331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506783870342	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1506783870382	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+[Parent 402] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1506784376821	geckodriver	INFO	geckodriver 0.18.0
+1506784376855	geckodriver	INFO	Listening on 127.0.0.1:34683
+1506784379343	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506784383088	Marionette	INFO	Enabled via --marionette
+1506784388334	Marionette	INFO	Listening on port 40307
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506784388429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506784388505	Marionette	DEBUG	loaded listener.js
+1506784388570	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506784390511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506784390513	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506784394277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+1506784394641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pubads.g.doubleclick.net/gampad/ads?sz=850x250&gdfp_req=1&ad_rule=0&iu=/4061/com.ythome&impl=ifr&ms=&scp=mpvid%3DwMq2tNvEsBcov57L%26ssl%3D1%26ytexp%3D9479707,23701116,23700931,9422596,9471239,23705769,23702700,9483949,23703566,9489085,9463154,23704000,23704046,23702262,9444895,9477113,9457114,9445365,9479324,23700634,9488991%26ytdevice%3D1%26klg%3Den%26kbsg%3DHPTN170930%26kmyd%3Dvideo-masthead%26kga%3D-1%26kgg%3D-1%26dc_yt%3D1&d_imp=1&ytdevice=1&pucrd=CgYIABAAGAA&correlator=5091421057878032"
+1506784395779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/video_masthead?video_id=Ly0-zhU-DD8&textLine1=%D8%A3%D8%AD%D9%84%D9%89+%D8%AD%D8%AF%D9%8A%D9%82%D9%87+%D8%AD%D9%8A%D9%88%D8%A7%D9%86+%D9%81%D9%8A+%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF&textLine2=%D8%AA%D8%A7%D8%A8%D8%B9%D9%88%D8%A7+%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF+%D8%B9%D9%84%D9%89+%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D9%81+%D8%B3%D9%8A%D8%B3%D8%AA%D8%B1%D8%B2&autocrop=0&autoplay_start_time=256000&autoplay_duration=20000&video_wall=0&subscribe_button=1&subscriber_count=1&site_cta=1&cta_label=%D8%A7%D8%B4%D8%AA%D8%B1%D9%83%D9%88%D8%A7+%D9%88+%D8%B4%D8%A7%D9%87%D8%AF%D9%88%D8%A7+%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF&line_item_id=4437936887&creative_id=138212275758"
+1506784396447	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/video_masthead?video_id=Ly0-zhU-DD8&textLine1=%D8%A3%D8%AD%D9%84%D9%89+%D8%AD%D8%AF%D9%8A%D9%82%D9%87+%D8%AD%D9%8A%D9%88%D8%A7%D9%86+%D9%81%D9%8A+%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF&textLine2=%D8%AA%D8%A7%D8%A8%D8%B9%D9%88%D8%A7+%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF+%D8%B9%D9%84%D9%89+%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D9%81+%D8%B3%D9%8A%D8%B3%D8%AA%D8%B1%D8%B2&autocrop=0&autoplay_start_time=256000&autoplay_duration=20000&video_wall=0&subscribe_button=1&subscriber_count=1&site_cta=1&cta_label=%D8%A7%D8%B4%D8%AA%D8%B1%D9%83%D9%88%D8%A7+%D9%88+%D8%B4%D8%A7%D9%87%D8%AF%D9%88%D8%A7+%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF&line_item_id=4437936887&creative_id=138212275758"
+1506784396451	Marionette	DEBUG	Received DOM event "pageshow" for "https://pubads.g.doubleclick.net/gampad/ads?sz=850x250&gdfp_req=1&ad_rule=0&iu=/4061/com.ythome&impl=ifr&ms=&scp=mpvid%3DwMq2tNvEsBcov57L%26ssl%3D1%26ytexp%3D9479707,23701116,23700931,9422596,9471239,23705769,23702700,9483949,23703566,9489085,9463154,23704000,23704046,23702262,9444895,9477113,9457114,9445365,9479324,23700634,9488991%26ytdevice%3D1%26klg%3Den%26kbsg%3DHPTN170930%26kmyd%3Dvideo-masthead%26kga%3D-1%26kgg%3D-1%26dc_yt%3D1&d_imp=1&ytdevice=1&pucrd=CgYIABAAGAA&correlator=5091421057878032"
+1506784396458	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+1506784408871	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.youtube.com/"
+1506784408990	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 8245] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-55.0.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2000A,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+1506784616763	geckodriver	INFO	geckodriver 0.18.0
+1506784616890	geckodriver	INFO	Listening on 127.0.0.1:42707
+1506784620355	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506784624463	Marionette	INFO	Enabled via --marionette
+1506784631747	Marionette	INFO	Listening on port 46049
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506784632080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506784632134	Marionette	DEBUG	loaded listener.js
+1506784632232	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506784633762	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506784633763	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506784639817	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+1506784640293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pubads.g.doubleclick.net/gampad/ads?sz=850x250&gdfp_req=1&ad_rule=0&iu=/4061/com.ythome&impl=ifr&ms=&scp=mpvid%3DDWSDWCZDWvme-3_X%26ssl%3D1%26ytexp%3D9481057,23703266,9441347,9422596,9475653,9489766,23702700,9441389,23701773,23704784,9405970,23705524,23705445,9445368,9457114,9459678,9488991%26ytdevice%3D1%26klg%3Den%26kbsg%3DHPTN170930%26kmyd%3Dvideo-masthead%26kga%3D-1%26kgg%3D-1%26dc_yt%3D1&d_imp=1&ytdevice=1&pucrd=CgYIABAAGAA&correlator=4793176120277892"
+1506784642582	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/video_masthead?video_id=Ly0-zhU-DD8&textLine1=%D8%A3%D8%AD%D9%84%D9%89+%D8%AD%D8%AF%D9%8A%D9%82%D9%87+%D8%AD%D9%8A%D9%88%D8%A7%D9%86+%D9%81%D9%8A+%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF&textLine2=%D8%AA%D8%A7%D8%A8%D8%B9%D9%88%D8%A7+%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF+%D8%B9%D9%84%D9%89+%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D9%81+%D8%B3%D9%8A%D8%B3%D8%AA%D8%B1%D8%B2&autocrop=0&autoplay_start_time=256000&autoplay_duration=20000&video_wall=0&subscribe_button=1&subscriber_count=1&site_cta=1&cta_label=%D8%A7%D8%B4%D8%AA%D8%B1%D9%83%D9%88%D8%A7+%D9%88+%D8%B4%D8%A7%D9%87%D8%AF%D9%88%D8%A7+%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF&line_item_id=4437936887&creative_id=138212275758"
+1506784643162	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/video_masthead?video_id=Ly0-zhU-DD8&textLine1=%D8%A3%D8%AD%D9%84%D9%89+%D8%AD%D8%AF%D9%8A%D9%82%D9%87+%D8%AD%D9%8A%D9%88%D8%A7%D9%86+%D9%81%D9%8A+%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF&textLine2=%D8%AA%D8%A7%D8%A8%D8%B9%D9%88%D8%A7+%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF+%D8%B9%D9%84%D9%89+%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D9%81+%D8%B3%D9%8A%D8%B3%D8%AA%D8%B1%D8%B2&autocrop=0&autoplay_start_time=256000&autoplay_duration=20000&video_wall=0&subscribe_button=1&subscriber_count=1&site_cta=1&cta_label=%D8%A7%D8%B4%D8%AA%D8%B1%D9%83%D9%88%D8%A7+%D9%88+%D8%B4%D8%A7%D9%87%D8%AF%D9%88%D8%A7+%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF&line_item_id=4437936887&creative_id=138212275758"
+1506784643165	Marionette	DEBUG	Received DOM event "pageshow" for "https://pubads.g.doubleclick.net/gampad/ads?sz=850x250&gdfp_req=1&ad_rule=0&iu=/4061/com.ythome&impl=ifr&ms=&scp=mpvid%3DDWSDWCZDWvme-3_X%26ssl%3D1%26ytexp%3D9481057,23703266,9441347,9422596,9475653,9489766,23702700,9441389,23701773,23704784,9405970,23705524,23705445,9445368,9457114,9459678,9488991%26ytdevice%3D1%26klg%3Den%26kbsg%3DHPTN170930%26kmyd%3Dvideo-masthead%26kga%3D-1%26kgg%3D-1%26dc_yt%3D1&d_imp=1&ytdevice=1&pucrd=CgYIABAAGAA&correlator=4793176120277892"
+1506784643170	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 230: TypeError: Cc[aContract] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1506784958584	geckodriver	INFO	geckodriver 0.18.0
+1506784958600	geckodriver	INFO	Listening on 127.0.0.1:57433
+1506784959964	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506784963003	Marionette	INFO	Enabled via --marionette
+1506784967265	Marionette	INFO	Listening on port 35121
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506784967522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506784967590	Marionette	DEBUG	loaded listener.js
+1506784967640	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506784969237	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506784969238	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506784974180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/feed/trending"
+1506784976703	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/feed/trending"
+1506785020741	geckodriver	INFO	geckodriver 0.18.0
+1506785020747	geckodriver	INFO	Listening on 127.0.0.1:53615
+1506785021969	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506785027980	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 230: TypeError: Cc[aContract] is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1506785030849	Marionette	INFO	Listening on port 36017
+1506785030863	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506785030924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506785031021	Marionette	DEBUG	loaded listener.js
+1506785031047	Marionette	DEBUG	loaded listener.js
+1506785031060	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.1/html/relocation/netdiagnose.asp"
+1506785031106	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.1/html/relocation/netdiagnose.asp"
+1506785031106	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.1/html/relocation/netdiagnose.asp"
+1506785031122	Marionette	DEBUG	Received DOM event "pageshow" for "http://youtube.com/feed/trending"
+1506785073652	geckodriver	INFO	geckodriver 0.18.0
+1506785073658	geckodriver	INFO	Listening on 127.0.0.1:50017
+1506785074865	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506785085744	Marionette	INFO	Enabled via --marionette
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1506785087898	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1506785088044	Marionette	INFO	Listening on port 44061
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506785088135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506785088185	Marionette	DEBUG	loaded listener.js
+1506785088224	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506785088249	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506785088250	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506785088261	Marionette	DEBUG	Received DOM event "pageshow" for "http://youtube.com/feed/trending"
