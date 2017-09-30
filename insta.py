@@ -26,7 +26,7 @@ password_el.send_keys('azertycom')
 
 password_el.send_keys(Keys.RETURN)
 
-for j in range(4):
+for j in range(8):
     time.sleep(10)
     browser.find_element_by_xpath("//a[contains(@class, '_8scx2 _gvoze coreSpriteDesktopNavExplore')]").click()
     time.sleep(5)
@@ -37,4 +37,7 @@ for j in range(4):
         time.sleep(1)
         list[i].click()
         print(list[i].text)
+
+
+browser.find_element_by_xpath("//a[contains(@class, '_8scx2 _gvoze coreSpriteDesktopNavProfile')]").click()
 
