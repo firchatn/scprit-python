@@ -15,12 +15,6 @@ browser.maximize_window()
 top10 = browser.find_elements(By.XPATH, "//a[contains(@class, 'yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink      spf-link ')]")
 top10info = browser.find_elements(By.XPATH, "//ul[contains(@class, 'yt-lockup-meta-info')]")
 
-"""
-time.sleep(5)
-for i in info:
-	texte = i.text
-	print(texte)
-"""
 time.sleep(5)
 k = 0 
 for top in top10:
