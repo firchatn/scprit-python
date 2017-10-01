@@ -26,12 +26,15 @@ for top in top10:
 	t = top.get_attribute("title")
 	ch = ch + t
 	print("title = ",t)
+	l = 0
+	texte = []
 	for i in info:
-		texte = i.text
-		ch = ch + "\n" + texte
-		print(texte)
-		data = { 'title' : t , 'date' : texte , 'vue' : texte } 
-		list_data.append(data)
+		texte.append(i.text)
+		ch = ch + "\n" + texte[l]
+		print(texte[l])
+		l = l + 1 
+	data = { 'title' : t , 'date' : texte[0] , 'vue' : texte[1] } 
+	list_data.append(data)
 	#json_str = json.dumps(data)
 	k = k + 1
 	file.write(ch)
