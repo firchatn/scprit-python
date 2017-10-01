@@ -19,6 +19,7 @@ top10info = browser.find_elements(By.XPATH, "//ul[contains(@class, 'yt-lockup-me
 file = open('youtube.txt','w') 
 time.sleep(5)
 k = 0 
+list_data =[]
 for top in top10:
 	ch =''
 	info = top10info[k].find_elements_by_tag_name("li")
@@ -30,8 +31,9 @@ for top in top10:
 		ch = ch + "\n" + texte
 		print(texte)
 		data = { 'title' : t , 'date' : texte , 'vue' : texte } 
-	json_str = json.dumps(data)
-	with open('data.json', 'a') as f:
-		json.dump(data, f)
+		list_data.append(data)
+	#json_str = json.dumps(data)
 	k = k + 1
 	file.write(ch)
+with open('data.json', 'a') as f:
+		json.dump(list_data, f)
