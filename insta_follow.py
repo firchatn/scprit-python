@@ -11,7 +11,7 @@ def randomword(length):
 
 while True:
 
-    email_rand = randomword(10) + '@gmail.com'
+    email_rand = randomword(10) + '@yandex.com'
     user_rand = randomword(5) + '.' + randomword(5) 
 
     print(email_rand)
