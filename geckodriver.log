@@ -7402,3 +7402,74 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1506959847450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1506959848747	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1506959849102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507063000906	geckodriver	INFO	geckodriver 0.18.0
+1507063000968	geckodriver	INFO	Listening on 127.0.0.1:48373
+1507063002163	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507063003193	Marionette	INFO	Enabled via --marionette
+1507063005164	Marionette	INFO	Listening on port 41339
+1507063005365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507063005440	Marionette	DEBUG	loaded listener.js
+1507063005487	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507063010125	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507063010125	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507063012421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1507063013231	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1507063013426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3794e7bfc67444&origin=https%3A%2F%2Fwww.instagram.com"
+1507063013431	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3794e7bfc67444&origin=https%3A%2F%2Fwww.instagram.com"
+1507063015688	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1507063036852	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507063036971	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507063038045	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507063038047	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507063038079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1507063038080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1507063038080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1507063038080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1507063038081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1507063038081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1507063038082	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1507063038083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1507063038084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1507063038084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1507063038085	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1507063039409	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/ala.hmida/"
+1507063039507	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/ala.hmida/"
+1507063039563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1b3269b99fd682&origin=https%3A%2F%2Fwww.instagram.com"
+1507063039568	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1b3269b99fd682&origin=https%3A%2F%2Fwww.instagram.com"
+1507063039673	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/ala.hmida/"
+1507063049926	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/ala.hmida/"
+1507063049929	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/ala.hmida/"
+1507063049932	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/ala.hmida/"
+1507063050060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507063228947	geckodriver	INFO	geckodriver 0.18.0
+1507063228954	geckodriver	INFO	Listening on 127.0.0.1:36215
+1507063229282	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507063230212	Marionette	INFO	Enabled via --marionette
+1507063232278	Marionette	INFO	Listening on port 36781
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507063232331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507063232394	Marionette	DEBUG	loaded listener.js
+1507063232542	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507063233765	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507063233765	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507063235185	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1507063237302	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1507063237847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f66f49a8fa09c2&origin=https%3A%2F%2Fwww.instagram.com"
+1507063237850	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f66f49a8fa09c2&origin=https%3A%2F%2Fwww.instagram.com"
+1507063237870	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1507063253791	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507063254518	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507063254520	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507063254563	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1507063254564	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1507063254565	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1507063254566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1507063254566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1507063254566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1507063254567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1507063254568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1507063254570	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1507063254570	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1507063255197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/challenge/"
+1507063255338	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/challenge/"
