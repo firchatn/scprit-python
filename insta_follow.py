@@ -4,14 +4,12 @@ from selenium.webdriver.common.by import By
 import time
 import random, string
 
-
+def randomword(length):
+    letters = string.ascii_lowercase
+    return ''.join(random.choice(letters) for i in range(length))
 
 
 while True:
-    def randomword(length):
-        letters = string.ascii_lowercase
-        return ''.join(random.choice(letters) for i in range(length))
-
 
     email_rand = randomword(10) + '@gmail.com'
     user_rand = randomword(5) + '.' + randomword(5) 
@@ -42,9 +40,13 @@ while True:
 
     password_el.send_keys(Keys.RETURN)
     time.sleep(5)
+    if browser.current_url == 'https://www.instagram.com/challenge/':
+        browser.close()
+        continue
     browser.get('http://instagram.com/ala.hmida/')
     time.sleep(5)
     browser.find_element_by_xpath("//button[contains(@class, '_qv64e _gexxb _r9b8f _njrw0')]").click()
+    time.sleep(5)
     browser.close()
 
 
