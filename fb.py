@@ -14,6 +14,7 @@ finder_pass.send_keys('nitro2010')
 finder_pass.send_keys(Keys.RETURN)
 ch = str(input('search : '))
 time.sleep(5)
+
 finder_find = browser.find_element_by_name('q')
 #finder_find.send_keys('otc fss start with python!')
 finder_find.send_keys(ch)
@@ -26,6 +27,3 @@ for i in list:
 name = browser.find_element_by_xpath("//a[contains(@class, '_1ii5 _2yez')]").text
 #browser.find_element_by_xpath("//a[contains(@class, '_1ii5 _2yez')]").click()
 print(name)
-
-
-
