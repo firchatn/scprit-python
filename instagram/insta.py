@@ -34,11 +34,14 @@ for j in range(8):
     time.sleep(10)
     list = browser.find_elements(By.XPATH, "//button[contains(@class, '_qv64e _gexxb _4tgw8 _njrw0')]")
     list_name = browser.find_elements(By.XPATH, "//a[contains(@class, '_2g7d5 notranslate _o5iw8')]")
-    for i in range(5):
+    nb = len(list_name)
+    if nb >5:
+         nb = 5
+    for i in range(nb):
         time.sleep(1)
         if list[i].text == 'Follow':
             list[i].click()
-            print(list[i+1].text, " ", list_name[i].text)
+            print(list[i].text, " ", list_name[i].text)
 
 
 browser.find_element_by_xpath("//a[contains(@class, '_8scx2 _gvoze coreSpriteDesktopNavProfile')]").click()
