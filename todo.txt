@@ -1,5 +1,8 @@
 instagram 
 	- notification (open followers read last name and send it to the email or phone number if this is posible )
+	- accept followers script
 youtube
 	- save top 10 json form and display them in django website
 	- youtube video first commit 
+twitters
+	- auto following
