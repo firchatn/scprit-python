@@ -6,3 +6,4 @@ youtube
 	- youtube video first commit 
 twitters
 	- auto following
+	- followers
