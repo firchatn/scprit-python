@@ -20,17 +20,20 @@ password_el.clear()
 password_el.send_keys('pass')
 
 password_el.send_keys(Keys.RETURN)
-time.sleep(10)
-browser.find_element_by_xpath("//a[contains(@class, '_8scx2 _gvoze coreSpriteDesktopNavProfile')]").click()
-time.sleep(10)
-#browser.find_element_by_xpath("//a[contains(@class, '_t98z6')]").click()
-following = browser.find_elements(By.XPATH, "//a[contains(@class, '_t98z6')]")
-following[1].click()
+
 while True:
-    time.sleep(1)
-    list = browser.find_elements(By.XPATH, "//button[contains(@class, '_qv64e _t78yp _4tgw8 _njrw0')]")
+    time.sleep(5)
+    browser.find_element_by_xpath("//a[contains(@class, '_8scx2 _gvoze coreSpriteDesktopNavExplore')]").click()
+    time.sleep(5)
+    browser.find_element_by_xpath("//a[contains(@class, '_3f3gc _fkers')]").click()
+    time.sleep(5)
+    list = browser.find_elements(By.XPATH, "//button[contains(@class, '_qv64e _gexxb _4tgw8 _njrw0')]")
+    list_name = browser.find_elements(By.XPATH, "//a[contains(@class, '_2g7d5 notranslate _o5iw8')]")
     for i in range(5):
         time.sleep(1)
-        list[i].click()
-        print(list[i].text)
+        if list[i].text == 'Follow':
+            list[i].click()
+            print(list[i].text, " ", list_name[i].text)
+
+
 
