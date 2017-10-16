@@ -7,3 +7,6 @@ youtube
 twitters
 	- auto following
 	- followers
+samsara 
+	- one post for every city
+	- 
