@@ -9,4 +9,5 @@ twitters
 	- followers
 samsara 
 	- one post for every city
-	- 
+	- new post
+	-  
