@@ -8,16 +8,17 @@ browser.get('http://instagram.com')
 
 time.sleep(10)
 
-browser.find_element_by_xpath("//a[contains(@class, '_b93kq')]").click()
-
+#browser.find_element_by_xpath("//p[contains(@class, '_g9ean')]").click()
+browser.find_element_by_xpath("//a").click()
+time.sleep(5)
 
 user_name = browser.find_element_by_name('username')
 user_name.clear()
-user_name.send_keys('compte')
+user_name.send_keys('mohsenrt')
 
 password_el = browser.find_element_by_name('password')
 password_el.clear()
-password_el.send_keys('pass')
+password_el.send_keys('mohseniju8547')
 
 password_el.send_keys(Keys.RETURN)
 
