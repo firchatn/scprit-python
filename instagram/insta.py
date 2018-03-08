@@ -10,15 +10,15 @@ time.sleep(10)
 
 phone_email = browser.find_element_by_name('emailOrPhone')
 phone_email.clear()
-phone_email.send_keys('mohsenijkelo@gmail.com')
+phone_email.send_keys('mohsenizaazjbkjza@gmail.com')
 
 full_name = browser.find_element_by_name('fullName')
 full_name.clear()
-full_name.send_keys('mohsenrto')
+full_name.send_keys('alyasalahali')
 
 user_name = browser.find_element_by_name('username')
 user_name.clear()
-user_name.send_keys('mohseniju85476')
+user_name.send_keys('salwasousou33')
 
 password_el = browser.find_element_by_name('password')
 password_el.clear()
