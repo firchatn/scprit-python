@@ -16,7 +16,7 @@ finder_pass.send_keys(Keys.RETURN)
 time.sleep(5)
 
 finder_find = browser.find_element_by_name('q')
-finder_find.send_keys('otc fss start with python!')
+finder_find.send_keys('isitcom')
 finder_find.send_keys(Keys.RETURN)
 time.sleep(10)
 finder_find.clear()
